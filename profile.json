@@ -1,19 +1,18 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
+    "name": "NIVEDHIKA THOTTIYIL",
+    "tagline": "First year computer science student intrested in Web development and programming.I enjoy learning new technologies and building simple projects as i develop my skill.",
     "bio": "Write 2 or 3 sentences about yourself.",
     "skills": [
-        "Git",
         "HTML"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "My Portfolio website",
+            "desc": "A personal website to showcase my profile,skills and learning journey.",
+            "link": "https://github.com/nivedhika2007/portfolio-template"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/nivedhika2007"
     }
 }
