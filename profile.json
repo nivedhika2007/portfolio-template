@@ -1,19 +1,19 @@
 {
-    "name": "NIVEDHIKA THOTTIYIL",
-    "tagline": "First year computer science student ",
-    "bio": " I am a first-year Btech Computer science student inetrested in Web development and programming.I enjoy learning new technologies and building simple projects as i develop my skill.",
-    "skills": [
-        "HTML",
-        "Python"
-    ],
-    "projects": [
-        {
-            "title": "My Portfolio website",
-            "desc": "A personal website to showcase my profile,skills and learning journey.",
-            "link": "https://github.com/nivedhika2007/portfolio-template"
-        }
-    ],
-    "links": {
-        "github": "https://github.com/nivedhika2007"
+  "name": "Nivedhika Thottiyil",
+  "tagline": "Passionate developer exploring open source and web development",
+  "bio": "Hi there! I am a student developer participating in FOSSSoC-S1, learning new technologies and building projects.",
+  "skills": [
+    "HTML",
+    "Python"
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "desc": "A personalized portfolio website built as part of the FOSSSoC-S1 Portfolio Week challenge.",
+      "link": "https://github.com/nivedhika2007/portfolio-template"
     }
+  ],
+  "links": {
+    "github": "https://github.com/nivedhika2007"
+  }
 }
